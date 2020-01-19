@@ -1,7 +1,7 @@
 #include <stdio.h> 
 #include <conio.h> 
 void main() 
-{ 
+{
 int arr1 [10], arr2 [10], arr3 [20]; 
 int i, n1, n2, m, index=0; 
 clrscr(); 
