@@ -35,5 +35,5 @@ for(i=0;i<m;i++)
 { 
 printf("\t\n Arr[%d] = %d", i, arr3[i]); 
 } 
-getch(); 
+getch();
 }
