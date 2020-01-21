@@ -14,7 +14,7 @@ void quicksort(int number[25],int first,int last){
             temp=number[i];
             number[i]=number[j];
             number[j]=temp;
-         }
+        }
       }
 
       temp=number[pivot];
